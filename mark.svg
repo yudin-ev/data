@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="77px" height="112px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4522 6572"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#BE360C}
+    .fil1 {fill:#D64214}
+    .fil2 {fill:#EEEEEE}
+    .fil3 {fill:#FEFEFE}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Western_siberia">
+   <path class="fil0" d="M2251 824c803,-1 1443,639 1444,1441 1,803 -645,1444 -1445,1441l2 2861c2,0 1,24 38,-31 12,-19 26,-42 40,-65l1159 -1890c203,-321 768,-1198 891,-1541 70,-192 133,-455 136,-672l6 -257c-31,-54 -26,-176 -40,-247 -47,-253 -98,-379 -202,-608 -85,-188 -310,-494 -464,-631 -376,-333 -849,-619 -1564,-625l-2 824 1 0z"/>
+   <path class="fil1" d="M586 743c-288,327 -557,782 -586,1393 0,182 2,314 25,489 97,516 242,716 460,1074 99,162 1708,2802 1767,2867l-2 -2860c-1372,-60 -1869,-1598 -1013,-2458 279,-281 598,-405 1014,-424l1 -824c-380,13 -690,87 -979,229 -247,122 -544,331 -687,514l0 0z"/>
+   <path class="fil2" d="M2250 3706c800,4 1446,-638 1445,-1441 -1,-802 -641,-1442 -1444,-1441l-1 2882z"/>
+   <path class="fil3" d="M2250 3706l1 -2882c-416,19 -735,143 -1014,424 -856,860 -359,2398 1013,2458l0 0z"/>
+  </g>
+ </g>
+</svg>
